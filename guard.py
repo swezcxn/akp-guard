@@ -8,13 +8,13 @@ import re
 # ─────────────────────────────────────────────
 # AYARLAR
 # ─────────────────────────────────────────────
-TOKEN = "MTU1MzY4ODI1NDc0MDcwMTE4NA.GIyutQ.KbYxBxbLdxHjfjhdUqfKenGU4VCOvUoCEnLeRI"
+TOKEN = ""
 PREFIX = "."
 
 # Yetkili rol(ler)in ID'si — sunucudan sağ tık → ID'yi kopyala
 # Birden fazla ekleyebilirsin: [123, 456, 789]
 YETKILI_ROLLER = [
-    1541512285288275988,  # ← Buraya yetkili rolün ID'sini yaz
+    ,  # ← Buraya yetkili rolün ID'sini yaz
 ]
 
 # ─────────────────────────────────────────────
